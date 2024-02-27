@@ -8,11 +8,11 @@
 
 ### Why this is an interesting problem?
 
-- The need for accelerating such workflows using open-source software, publicly available satellite imagery, and free compute is essential in low-resource environments.
+The need for accelerating such workflows using open-source software, publicly available satellite imagery, and free compute is essential in low-resource environments.
 
 ### What do we want to achieve?
 
-- In this session, we aim to showcase an end-to-end workflow for mapping objects in satellite imagery using publicly available resources with minimal costs on the user.
+In this session, we aim to showcase an end-to-end workflow for mapping objects in satellite imagery using publicly available resources with minimal costs on the user.
 
 ### What follows from the workflow?
 
