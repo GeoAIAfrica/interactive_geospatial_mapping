@@ -1,0 +1,62 @@
+# .gitignore file for a typical data science project
+
+# General
+.DS_Store
+.ipynb_checkpoints
+__pycache__/
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+dist/
+build/
+*.egg
+*.rds
+*.tar
+*.7z
+
+# Project specific
+.env
+.venv
+venv/
+ENV/
+
+# Jupyter notebook specific
+.ipynb_checkpoints/
+
+# Data Files - these are often large and version controlling them is usually unnecessary
+*.csv
+*.xlsx
+*.pickle
+*.sql
+*.sqlite
+
+# ML model files - these can be large and usually unnecessary to version control
+*.h5
+*.hdf5
+*.pkl
+
+# Logs
+logs/
+*.log
+
+# Directories used for testing
+/tests/
+
+# Directories for any IDE or editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+ehthumbs.db
+Thumbs.db
+*.xml
+.ipynb_checkpoints/
+gilles/
+other/
+templates/

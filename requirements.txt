@@ -1,0 +1,12 @@
+rioxarray
+leafmap
+torchgeo==0.4.0
+lightning
+pyarrow
+ipykernel
+geopandas
+notebook
+localtileserver
+pystac_client
+planetary_computer
+stackstac
