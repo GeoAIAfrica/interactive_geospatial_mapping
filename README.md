@@ -1,4 +1,4 @@
-# A Minimal Workflow for Interactive Geospatial ML Mapping
+# A Workflow for Interactive Geospatial ML Mapping
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeoAIAfrica/interactive_geospatial_mapping/blob/main/end2end_geospatial_ml_mapping.ipynb)                                                        
 
