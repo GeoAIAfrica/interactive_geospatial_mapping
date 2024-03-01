@@ -1,6 +1,6 @@
 # A Minimal Workflow for Interactive Geospatial ML Mapping
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Akramz/flexible_geospatial_mapping/blob/main/end2end_geospatial_ml_mapping.ipynb)                                                        
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeoAIAfrica/interactive_geospatial_mapping/blob/main/end2end_geospatial_ml_mapping.ipynb)                                                        
 
 ### Workshop Material for [AMLD Africa](https://appliedmldays.org/events/amld-africa-2024)
 
@@ -8,11 +8,11 @@
 
 ## Getting Started
 
-You can run the main notebook from [Colab](https://colab.research.google.com/github/Akramz/flexible_geospatial_mapping/blob/main/end2end_geospatial_ml_mapping.ipynb), or set up the repo locally:
+You can run the main notebook from [Colab](https://colab.research.google.com/github/GeoAIAfrica/interactive_geospatial_mapping/blob/main/end2end_geospatial_ml_mapping.ipynb), or set up the repo locally:
 
 ```bash
-git clone git@github.com:Akramz/flexible_geospatial_mapping.git
-cd flexible_geospatial_mapping
+git clone git@github.com:GeoAIAfrica/interactive_geospatial_mapping.git
+cd interactive_geospatial_mapping
 mamba create -n mapping python=3.10
 conda activate mapping
 pip install -r requirements.txt 
