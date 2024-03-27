@@ -15,7 +15,8 @@ git clone git@github.com:GeoAIAfrica/interactive_geospatial_mapping.git
 cd interactive_geospatial_mapping
 mamba create -n mapping python=3.10
 conda activate mapping
-pip install -r requirements.txt 
+pip install -r requirements.txt
+mamba install -c conda-forge gdal
 jupyter lab
 ```
 
