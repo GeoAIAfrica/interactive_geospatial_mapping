@@ -8,3 +8,4 @@ pystac_client
 planetary_computer
 stackstac
 notebook
+black
